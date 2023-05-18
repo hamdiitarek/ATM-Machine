@@ -29,7 +29,7 @@ This repository contains a simple command-line program for ATM services. It allo
 
 To use this ATM services program, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/atm-services.git`
+1. Clone the repository: `git clone https://github.com/hamdiitarek/ATM-Machine.git`
 2. Navigate to the project directory: `cd atm-services`
 3. Compile the program: `gcc atm-services.c -o atm-services`
 4. Run the program: `./atm-services`
